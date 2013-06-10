@@ -52,8 +52,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="180.36075"
-     inkscape:cy="116.12557"
+     inkscape:cx="287.88606"
+     inkscape:cy="198.08346"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,7 +135,7 @@
        sodipodi:cy="43.580463"
        sodipodi:rx="22.142857"
        sodipodi:ry="22.142857"
-       d="m 202.14286,43.580463 a 22.142857,22.142857 0 1 1 -44.28572,0 22.142857,22.142857 0 1 1 44.28572,0 z"
+       d="m 202.14286,43.580463 c 0,12.229162 -9.9137,22.142857 -22.14286,22.142857 -12.22916,0 -22.14286,-9.913695 -22.14286,-22.142857 0,-12.229162 9.9137,-22.142856 22.14286,-22.142856 12.22916,0 22.14286,9.913694 22.14286,22.142856 z"
        transform="matrix(0.82145112,0,0,0.82145112,31.842051,695.46068)" />
     <path
        sodipodi:type="arc"
@@ -145,24 +145,23 @@
        sodipodi:cy="43.580463"
        sodipodi:rx="22.142857"
        sodipodi:ry="22.142857"
-       d="m 202.14286,43.580463 a 22.142857,22.142857 0 1 1 -44.28572,0 22.142857,22.142857 0 1 1 44.28572,0 z"
+       d="m 202.14286,43.580463 c 0,12.229162 -9.9137,22.142857 -22.14286,22.142857 -12.22916,0 -22.14286,-9.913695 -22.14286,-22.142857 0,-12.229162 9.9137,-22.142856 22.14286,-22.142856 12.22916,0 22.14286,9.913694 22.14286,22.142856 z"
        transform="matrix(0.82145112,0,0,0.82145112,31.842051,978.26068)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.98903686;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3822"
        width="77.010963"
        height="106.01096"
-       x="895.15442"
-       y="-232.70874"
-       transform="matrix(0,1,-1,0,0,0)" />
+       x="-260.20874"
+       y="-992.66541"
+       transform="scale(-1,-1)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.98903686;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3822-0"
        width="77.010963"
        height="106.01096"
-       x="802.72583"
-       y="-232.70874"
-       transform="matrix(0,1,-1,0,0,0)" />
+       x="99.197777"
+       y="782.22583" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.95238096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3842"
@@ -208,5 +207,154 @@
        height="19.047619"
        x="105.62444"
        y="1033.1361" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.0077275;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3002"
+       width="123.99227"
+       height="53.992271"
+       x="117.70712"
+       y="713.16376" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3004"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-6.296747,696.65087)"><flowRegion
+         id="flowRegion3006"><rect
+           id="rect3008"
+           width="95"
+           height="16.428572"
+           x="128.57143"
+           y="54.294746" /></flowRegion><flowPara
+         id="flowPara3010">Battery</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="122.13183"
+       y="831.0885"
+       id="text3012"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3014"
+         x="122.13183"
+         y="831.0885">Motor</tspan><tspan
+         sodipodi:role="line"
+         x="122.13183"
+         y="843.5885"
+         id="tspan3016">Board</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="206.41754"
+       y="934.94562"
+       id="text3018"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3020"
+         x="206.41754"
+         y="934.94562">Motor</tspan><tspan
+         sodipodi:role="line"
+         x="206.41754"
+         y="947.44562"
+         id="tspan3022">Board</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="26.846111"
+       y="876.37421"
+       id="text3024"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3026"
+         x="26.846111"
+         y="876.37421">Motor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="304.27469"
+       y="875.65991"
+       id="text3028"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3030"
+         x="304.27469"
+         y="875.65991">Motor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="53.988968"
+       y="995.23132"
+       id="text3032"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3034"
+         x="53.988968"
+         y="995.23132">Ball castor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="46.42857"
+       y="66.437607"
+       id="text3036"
+       sodipodi:linespacing="125%"
+       transform="translate(-0.29674687,692.65087)"><tspan
+         sodipodi:role="line"
+         id="tspan3038"
+         x="46.42857"
+         y="66.437607">Ball castor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="288.98895"
+       y="709.65991"
+       id="text3040"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3042"
+         x="288.98895"
+         y="709.65991">Pine support</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 97.857143,53.580462 C 157.85714,40.723319 157.85714,40.723319 157.85714,40.723319"
+       id="path3044"
+       inkscape:connector-curvature="0"
+       transform="translate(-0.29674687,692.65087)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow2Lend)"
+       d="m 82.560396,997.6599 c 76.428574,10.7143 76.428574,10.7143 76.428574,10.7143"
+       id="path4380"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 283.57143,13.580462 257.14286,10.009033"
+       id="path4750"
+       inkscape:connector-curvature="0"
+       transform="translate(-0.29674687,692.65087)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.95238096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3842-3-6"
+       width="19.047619"
+       height="19.047619"
+       x="340.17944"
+       y="927.6911" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.95238096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3842-3-3"
+       width="19.047619"
+       height="19.047619"
+       x="340.17944"
+       y="798.58112" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.95238096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3842-3-2"
+       width="19.047619"
+       height="19.047619"
+       x="0.17944361"
+       y="798.58112" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.95238096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3842-3-0"
+       width="19.047619"
+       height="19.047619"
+       x="0.17944361"
+       y="927.6911" />
   </g>
 </svg>
