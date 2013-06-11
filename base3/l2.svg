@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="l1.svg">
+   sodipodi:docname="l2.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="252.32143"
-     inkscape:cy="103.85031"
+     inkscape:zoom="2.515"
+     inkscape:cx="218.3501"
+     inkscape:cy="149.78426"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,7 +104,7 @@
        sodipodi:cy="262.5"
        sodipodi:rx="30"
        sodipodi:ry="30"
-       d="m 134.28571,262.5 a 30,30 0 0 1 -30,30"
+       d="m 134.28571,262.5 c 0,16.56854 -13.43145,30 -30,30"
        transform="matrix(-1.6333251,0,0,-1.633325,319.33223,806.81031)"
        sodipodi:start="0"
        sodipodi:end="1.5707963"
@@ -117,10 +117,56 @@
        sodipodi:cy="262.5"
        sodipodi:rx="30"
        sodipodi:ry="30"
-       d="m 134.28571,262.5 a 30,30 0 0 1 -30,30"
+       d="m 134.28571,262.5 c 0,16.56854 -13.43145,30 -30,30"
        transform="matrix(1.6333251,0,0,-1.633325,80.667526,806.81031)"
        sodipodi:start="0"
        sodipodi:end="1.5707963"
        sodipodi:open="true" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.98591554;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2992"
+       width="69.014084"
+       height="69.014084"
+       x="164.99295"
+       y="259.05545" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.982216;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2994"
+       width="66.017784"
+       height="46.017784"
+       x="316.49112"
+       y="382.05362" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2996"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion2998"><rect
+           id="rect3000"
+           width="21.471172"
+           height="12.326044"
+           x="182.10736"
+           y="205.96422" /></flowRegion><flowPara
+         id="flowPara3002"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="178.33101"
+       y="296.85275"
+       id="text3004"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3006"
+         x="178.33101"
+         y="296.85275">Webcam</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="327.5318"
+       y="408.22055"
+       id="text3008"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3010"
+         x="327.5318"
+         y="408.22055">USB hub</tspan></text>
   </g>
 </svg>
