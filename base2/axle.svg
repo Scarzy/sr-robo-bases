@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="250"
+   width="350"
    height="60"
    id="svg2"
    version="1.1"
@@ -57,12 +57,12 @@
      id="layer1"
      transform="translate(-190.9375,-178.5625)">
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.98975271;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:1.16966677;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2985"
-       width="249.01025"
-       height="59.010246"
-       x="191.42345"
-       y="179.07133" />
+       width="348.83032"
+       height="58.830334"
+       x="191.5134"
+       y="179.16129" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.32738733;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3006"
@@ -75,7 +75,7 @@
        id="rect3006-6"
        width="85.672615"
        height="46.672611"
-       x="354.6012"
+       x="454.6012"
        y="185.2262" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.97157931;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -89,14 +89,14 @@
        id="rect3002-9"
        width="19.028421"
        height="123.02842"
-       x="443.42328"
+       x="543.42328"
        y="147.04829" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.96774191;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3022"
        width="29.032259"
        height="29.032259"
-       x="301.42136"
+       x="351.42136"
        y="194.04637" />
     <text
        xml:space="preserve"
@@ -112,28 +112,49 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="383.87665"
+       x="481.87665"
        y="211.3493"
        id="text3028"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3030"
-         x="383.87665"
+         x="481.87665"
          y="211.3493">Motor</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="299.56952"
+       x="349.56952"
        y="192.74269"
        id="text3032"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3034"
-         x="299.56952"
+         x="349.56952"
          y="192.74269">Bearing</tspan><tspan
          sodipodi:role="line"
-         x="299.56952"
+         x="349.56952"
          y="205.24269"
          id="tspan3036">Mount</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2995"
+       sodipodi:cx="77.529205"
+       sodipodi:cy="32.97842"
+       sodipodi:rx="2.7779195"
+       sodipodi:ry="2.7779195"
+       d="m 80.307125,32.97842 a 2.7779195,2.7779195 0 1 1 -5.555839,0 2.7779195,2.7779195 0 1 1 5.555839,0 z"
+       transform="matrix(1.5253578,0,0,1.5253578,152.67772,158.25861)" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="276.29538"
+       y="211.30869"
+       id="text2997"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2999"
+         x="276.29538"
+         y="211.30869">Steering rod</tspan></text>
   </g>
 </svg>

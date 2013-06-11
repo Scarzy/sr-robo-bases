@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="150"
+   width="200"
    height="400"
    id="svg2"
    version="1.1"
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="47.01511"
-     inkscape:cy="130.19151"
+     inkscape:cx="161.30082"
+     inkscape:cy="248.52484"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,56 +57,148 @@
      id="layer1"
      transform="translate(-315.9375,57.84375)">
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.99543542;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:1.14972091;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2985"
-       width="399.00458"
-       height="149.00456"
-       x="-57.354393"
-       y="-465.43085"
+       width="398.85028"
+       height="198.85028"
+       x="-57.26889"
+       y="-515.36267"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.98903692;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2983"
        width="106.01096"
        height="77.010963"
-       x="337.93201"
+       x="362.93201"
        y="39.650768" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.98903692;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2983-0"
        width="106.01096"
        height="77.010963"
-       x="337.93201"
+       x="362.93201"
        y="167.65077" />
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="374.79465"
+       x="402.79465"
        y="203.0134"
        id="text2985"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2987"
-         x="374.79465"
+         x="402.79465"
          y="203.0134">Motor</tspan><tspan
          sodipodi:role="line"
-         x="374.79465"
+         x="402.79465"
          y="215.5134"
          id="tspan2991">Board</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="376.50891"
+       x="402.50891"
        y="73.870537"
        id="text2995"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2997"
-         x="376.50891"
+         x="402.50891"
          y="73.870537">Motor</tspan><tspan
          sodipodi:role="line"
-         x="376.50891"
+         x="402.50891"
          y="86.370537"
          id="tspan3001">Board</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.96774191;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2991"
+       width="29.032259"
+       height="29.032259"
+       x="401.42136"
+       y="297.64011" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.96774191;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2991-5"
+       width="29.032259"
+       height="29.032259"
+       x="401.42136"
+       y="-42.359879" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="378.50894"
+       y="291.44199"
+       id="text3011"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3013"
+         x="378.50894"
+         y="291.44199">Bearing mount</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="378.65732"
+       y="-2.2278183"
+       id="text3011-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3013-7"
+         x="378.65732"
+         y="-2.2278183">Bearing mount</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.96675974;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3036"
+       width="19.033239"
+       height="53.033241"
+       x="326.77802"
+       y="50.711056" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.96675974;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3036-6"
+       width="19.033239"
+       height="53.033241"
+       x="482.27802"
+       y="179.49677" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-110.89162"
+       y="338.76184"
+       id="text3056"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3058"
+         x="-110.89162"
+         y="338.76184">Steering servo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-241.50754"
+       y="494.55344"
+       id="text3056-7"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3058-7"
+         x="-241.50754"
+         y="494.55344">Steering servo</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.9850893;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3003"
+       width="124.01492"
+       height="44.014912"
+       x="353.93005"
+       y="120.1488" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="397.9375"
+       y="144.44196"
+       id="text3005"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3007"
+         x="397.9375"
+         y="144.44196">Battery</tspan></text>
   </g>
 </svg>
