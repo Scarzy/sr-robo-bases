@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.515"
-     inkscape:cx="218.3501"
-     inkscape:cy="149.78426"
+     inkscape:zoom="2.0958334"
+     inkscape:cx="232.43315"
+     inkscape:cy="191.83984"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -146,7 +146,7 @@
            height="12.326044"
            x="182.10736"
            y="205.96422" /></flowRegion><flowPara
-         id="flowPara3002"></flowPara></flowRoot>    <text
+         id="flowPara3002" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="178.33101"
@@ -168,5 +168,65 @@
          id="tspan3010"
          x="327.5318"
          y="408.22055">USB hub</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.98706561;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3002"
+       width="54.012936"
+       height="124.01293"
+       x="22.493532"
+       y="354.05603" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="30.899601"
+       y="421.76331"
+       id="text3005"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3007"
+         x="30.899601"
+         y="421.76331">Battery</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3009"
+       sodipodi:cx="68.190857"
+       sodipodi:cy="184.69185"
+       sodipodi:rx="12.922465"
+       sodipodi:ry="12.922465"
+       d="m 81.113322,184.69185 a 12.922465,12.922465 0 1 1 -25.84493,0 12.922465,12.922465 0 1 1 25.84493,0 z"
+       transform="matrix(1.1175294,0,0,1.1175294,-26.705288,-2.8360705)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3009-7"
+       sodipodi:cx="68.190857"
+       sodipodi:cy="184.69185"
+       sodipodi:rx="12.922465"
+       sodipodi:ry="12.922465"
+       d="m 81.113322,184.69185 a 12.922465,12.922465 0 1 1 -25.84493,0 12.922465,12.922465 0 1 1 25.84493,0 z"
+       transform="matrix(1.1175294,0,0,1.1175294,273.29471,-2.8360705)" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="63.730614"
+       y="220.83685"
+       id="text3029"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3031"
+         x="63.730614"
+         y="220.83685">Cable hole</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="281.68884"
+       y="219.4794"
+       id="text3029-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3031-6"
+         x="281.68884"
+         y="219.4794">Cable hole</tspan></text>
   </g>
 </svg>

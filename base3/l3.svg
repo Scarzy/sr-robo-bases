@@ -140,5 +140,47 @@
          id="tspan2996"
          x="167.28571"
          y="205.99107">Power Board</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2995"
+       sodipodi:cx="46.785713"
+       sodipodi:cy="93.214287"
+       sodipodi:rx="15"
+       sodipodi:ry="15"
+       d="m 61.785713,93.214287 a 15,15 0 1 1 -30,0 15,15 0 1 1 30,0 z"
+       transform="matrix(0.96774194,0,0,0.96774194,4.2235032,113.35513)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2995-5"
+       sodipodi:cx="46.785713"
+       sodipodi:cy="93.214287"
+       sodipodi:rx="15"
+       sodipodi:ry="15"
+       d="m 61.785713,93.214287 a 15,15 0 1 1 -30,0 15,15 0 1 1 30,0 z"
+       transform="matrix(0.96774194,0,0,0.96774194,304.2235,113.35513)" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="23.142857"
+       y="225.91965"
+       id="text3015"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3017"
+         x="23.142857"
+         y="225.91965">Cable hole</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="322.28668"
+       y="226.43338"
+       id="text3015-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3017-4"
+         x="322.28668"
+         y="226.43338">Cable hole</tspan></text>
   </g>
 </svg>
